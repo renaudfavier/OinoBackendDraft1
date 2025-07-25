@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.renaudfavier
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, gradle, http-client, jdbc-hikari, junit, kotlin, kotlin-application, ksp, logback, mariadb, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, properties, readme, serialization-jackson, shade, static-resources, test-resources]
